@@ -12,7 +12,7 @@ These resources are hosted by the authors. Their presence does not imply that th
 
 ## Implementation status
 
-The implementation and associated release materials will be added to https://github.com/TianJiang204/A-Comparative-Study-of-Federated-Adaptation-Strategies-for-Remote-Sensing-Change-Detection in a future update.
+The implementation and associated release materials will be added to https://github.com/TianJiang204/Comparative-study-of-federated-adaptation-strategies-for-remote-sensing-change-detection in a future update.
 
 The numerical archive does not contain the complete training implementation, raw imagery, model checkpoints, image-level predictions, or complete training histories. Public source-dataset links and the study's reproducibility boundaries are documented in Online Resource 1 and in the archive README.
 
