@@ -18,4 +18,4 @@ The numerical archive does not contain the complete training implementation, raw
 
 ## Version
 
-Materials prepared on 27 November 2026. Scientific text, reported results, and all 16 numerical-resource data files are retained from the supplied submission materials; author addresses and access information have been updated.
+Materials prepared on 28 November 2026. Scientific text, reported results, and all 16 numerical-resource data files are retained from the supplied submission materials; author contact information and access information have been updated.
